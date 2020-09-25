@@ -1,0 +1,2 @@
+firefox.settings.services.mozilla.com:HSTS	0	18530	1632576433119,1,0,2
+location.services.mozilla.com:HSTS	0	18530	1632576433609,1,1,2
