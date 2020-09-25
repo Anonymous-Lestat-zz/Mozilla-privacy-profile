@@ -1,5 +1,5 @@
 # Mozilla-privacy-profile
-Mozilla privacy profile with addons, settings and about:config tweaks for privacy and security
+Mozilla privacy profile with addons, settings, user.js, and about:config tweaks for privacy and security
 # Addons:
 CanvasBlocker,
 Cookie AutoDelete,
@@ -17,6 +17,10 @@ uMatrix
 # about:config tweaks
 https://www.privacytools.io/browsers/#webrtc
 https://www.privacytools.io/browsers/#about_config
+
+# User.js template used:
+
+https://github.com/arkenfox/user.js/releases
 
 # How To Use
 
