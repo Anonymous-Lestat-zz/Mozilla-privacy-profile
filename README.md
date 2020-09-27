@@ -1,6 +1,6 @@
-# Mozilla-privacy-profile
+ # Mozilla-privacy-profile
 Mozilla privacy profile with addons, settings, user.js, and about:config tweaks for privacy and security
-# Addons:
+ # Addons:
 CanvasBlocker,
 Cookie AutoDelete,
 Decentraleyes,
@@ -12,7 +12,8 @@ Request Control,
 Skip Redirect,
 Temporary Containers,
 uBlock Origin,
-uMatrix
+uMatrix,
+Chameleon.
 
 # about:config tweaks
 https://www.privacytools.io/browsers/#webrtc
