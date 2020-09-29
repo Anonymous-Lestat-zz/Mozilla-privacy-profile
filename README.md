@@ -39,6 +39,11 @@ Copy the files into the new profile
 
 (Import the addon configs in the Addon Dashboard from the folder "extensions-config")
 
+# Warning!
+Im not responsible if u setup the addons wrong and have a unique fingerprint.
+To make sure u dont have a unique fingerprint play around with settings while checking ur fingerprint in https://amiunique.org/
+# Note: (ua attribute in amiunique.org is broken)
+
 
 
 
