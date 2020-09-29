@@ -43,6 +43,7 @@ Copy the files into the new profile
 Im not responsible if u setup the addons wrong and have a unique fingerprint.
 To make sure u dont have a unique fingerprint play around with settings while checking ur fingerprint in https://amiunique.org/
 # Note: (ua attribute in amiunique.org is broken)
+So as long as ur spoofing ur ua ur good to go.
 
 
 
