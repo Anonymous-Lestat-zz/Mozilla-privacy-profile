@@ -45,6 +45,8 @@ Don't Forget To Regularly Update user.js by running updater.bat or updater.sh
 Im not responsible if u setup the addons wrong and have a unique fingerprint.
 To make sure u dont have a unique fingerprint play around with settings while checking ur fingerprint in https://amiunique.org/ , https://www.deviceinfo.me/ , https://panopticlick.eff.org/
 
+# Tip: Low percentage doesnt mean anything. Unique is bad!
+
 # Note: (some attributes in those websites are broken or innacurate.)
 
 
