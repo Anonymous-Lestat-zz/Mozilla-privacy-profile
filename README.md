@@ -49,6 +49,7 @@ To make sure u dont have a unique fingerprint play around with settings while ch
 
 # Note: (some attributes in those websites are broken or innacurate.)
 
-
+Coming: 
+Removing Decentraleyes due to it being useless while using and being out of date  `privacy.firstparty.isolate = true`. *Might be replaced with LocalCDN*
 
 
