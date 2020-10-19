@@ -3,7 +3,7 @@ Mozilla privacy profile with addons, settings, user.js, and about:config tweaks 
  # Addons:
 CanvasBlocker,
 Cookie AutoDelete,
-Decentraleyes,
+LocalCDN,
 Don't track me Google,
 Firefox Multi-Accounts Containers,
 HTTPS Everywhere,
